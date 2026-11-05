@@ -4,4 +4,4 @@ __pycache__/
 mlruns/
 mlflow.db
 *.db
-.env
+.envsrc/train_backup.py
